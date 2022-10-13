@@ -1,2 +1,2 @@
 # Bingo-Lite
-Projeto de um jogo de bingo
+ desenvolver uma versão simplificada do conhecido jogo de BINGO.
